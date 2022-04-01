@@ -1,14 +1,22 @@
-# PROJECT NAME
+# P2-Project Turtle
 
 ## Project Description
+A website that will allow patients to look up doctors by a number of different attributes, and choose the best fit for them. Book appointments with their favorite doctors from anywhere on the globe. Choose the doctor that you need for what you need at any moment of any day. Doctors from around the world can be located simply by specialty, location, or name. Sections where anyone visiting can discover more about those that serve them in the medical field. Do not forget to take a look at our blog, where you may learn new things about your favorite doctor, or what to do during the next flu season. Those of us here at Turtle Medical hope to serve you in the near future, and then continue to serve every member of your family.
 
-Here goes your awesome project description!
 
 ## Technologies Used
+* VSCode - IDE: Visual Studio Code employs the angular framework to build a
+    website with HTML, CSS, Java script, and Type script
+* Eclipse - IDE: Utilizes Maven to create a project with Java and Springboot
+* Spring - Framework
+* Springboot - Spring Framework Project
+* HTML - Hyper Text Markup Language
+* CSS - Cascading Style Sheet Language
+* Type Script - Microsoft Programming Language
+* Java - High Level Programming Language
+* 
+* Hibernate
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
 
 ## Features
 
