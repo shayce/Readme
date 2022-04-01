@@ -8,26 +8,26 @@ A website that will allow patients to look up doctors by a number of different a
 * VSCode - IDE: Visual Studio Code employs the angular framework to build a
     website with HTML, CSS, Java script, and Type script
 * Eclipse - IDE: Utilizes Maven to create a project with Java and Springboot
-* Spring - Framework
-* Springboot - Spring Framework Project
+* Maven - A build automation tool used primarily for Java projects
+* Spring - Framework. provides flexible infrastructural support to create
+    loosely coupled Java applications
+* Springboot - Spring Framework Project used to rapidly create Java based
+    applications
+* Postgresql(Postgres): a relational database management system
+* SQL - A domain specific language used in relational database management
+    systems.
+* Hibernate - An object-relational mapping tool for the Java language
 * HTML - Hyper Text Markup Language
 * CSS - Cascading Style Sheet Language
 * Type Script - Microsoft Programming Language
 * Java - High Level Programming Language
 * 
-* Hibernate
-
 
 ## Features
+* Look up doctors based on specialty, location, or name.
+* Schedule an appointment
+* Blog
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
 
 ## Getting Started
    
@@ -46,7 +46,11 @@ To-do list:
 
 ## Contributors
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+> Trey Nicholson
+> Kami Ruebush
+> Joseph T.
+> Terrence Ingraham
+> Tony Fisher
 
 ## License
 
